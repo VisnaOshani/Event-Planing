@@ -1,14 +1,25 @@
 <resources>
-    <string name="app_name">First_Activity</string>
-    <string name="btn1">SIGN UP</string>
-    <string name="btn2">LOGIN</string>
-    <string name="banner1">Sign Up For Free</string>
-    <string name="name1">First Name</string>
-    <string name="name2">Last Name</string>
-    <string name="email">Email</string>
-    <string name="pwd">Password</string>
-    <string name="btn3">GET STARTED</string>
+<string name="app_name">First_Activity</string>
+<string name="btn1">SIGN UP</string>
+<string name="btn2">LOGIN</string>
+<string name="banner1">Sign Up For Free</string>
+<string name="name1">First Name</string>
+<string name="name2">Last Name</string>
+<string name="email">Email</string>
+<string name="pwd">Password</string>
+<string name="btn3">GET STARTED</string>
 
-    <string name="username">User Name</string>
-    <string name="pwd2">Password</string>
+<string name="username">User Name</string>
+<string name="pwd2">Password</string>
+
+<string name="back">Back</string>
+<string name="save">Save</string>
+<string name="banner2">Budget Details</string>
+<string name="category">Category</string>
+
+<string name="delete">Delete</string>
+<string name="list">Budget List</string>
+<string name="add">+</string>
+
+
 </resources>

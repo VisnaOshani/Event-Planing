@@ -17,10 +17,12 @@ public class MainActivity extends AppCompatActivity {
 
     public void login (View view){
 
-     Intent intent = new Intent(MainActivity.this,Second_Activity.class);
-    //Intent intent = new Intent(this,MainActivity.class);
-    startActivity(intent);
-
-
+        Intent intent = new Intent(MainActivity.this,Second_Activity.class);
+        startActivity(intent);
     }
-}
+    public void budget (View view) {
+        Intent intent = new Intent(MainActivity.this, Thrid_Activity.class);
+        startActivity(intent);
+    }
+    }
+
